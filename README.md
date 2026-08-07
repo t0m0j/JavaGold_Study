@@ -1,2 +1,17 @@
-# JavaGold_Study
-１日目：04/01 黒本１章　問1~6
+# Project Template
+
+## 使用技術
+
+Java
+Spring Boot
+PostgreSQL
+
+## 開発手順
+
+要件定義
+↓
+設計
+↓
+実装
+↓
+テスト
